@@ -7,7 +7,7 @@
 body{
     margin:0;
     background-color:#04050D;
-/*    background-image:url("costa2.jpeg")*/
+    font-family: 'Montserrat', sans-serif;
 }
 #titulo{
     color:#04050D;
