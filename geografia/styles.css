@@ -1,0 +1,52 @@
+/* Color Theme Swatches in Hex */
+.Made-of-Gold-1-hex { color: #04050D; }
+.Made-of-Gold-2-hex { color: #F2D194; }
+.Made-of-Gold-3-hex { color: #D9A566; }
+.Made-of-Gold-4-hex { color: #BF6E26; }
+.Made-of-Gold-5-hex { color: #A67041; }
+body{
+    margin:0;
+    background-color:#04050D;
+/*    background-image:url("costa2.jpeg")*/
+}
+#titulo{
+    color:#04050D;
+    background-color:#F2D194;
+    font-size:100px;
+    text-align:center ;
+}
+#costa{
+    display:block;
+    width:100%;
+    height:1%;
+}
+#lugares{
+    font-size:60px;
+    color:#F2D194;
+    margin:5%;
+}
+.museomar{
+    text-align:center;
+}
+#museo{
+    width:30%;
+    height:30%;
+    margin-right: 3%;
+    margin-top:3%;
+}
+p{
+    margin:0;
+}
+#desmuseo{
+    color:#FFFFFF;
+    font-size:40px;
+    margin-left:5%;
+    margin-right:0%;
+    text-align:center;
+}
+#titulomuseo{
+    color:#BF6E26;
+    font-size:40px;
+    text-align:center
+}
+/*div.polaroid*/
